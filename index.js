@@ -1,5 +1,3 @@
-var validator = require('validator');
-
 var pi = 3.14159265358979;
 
 /* Ellipsoid model constants (actual values here are for WGS84) */
