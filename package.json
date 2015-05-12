@@ -1,0 +1,8 @@
+{
+  "name": "utmgeoconv",
+  "version": "0.0.1",
+  "description": "UTM to Latitude/Longitude converter and vice versa",
+  "main": "index.js",
+  "author": "Werner Vesteraas",
+  "license": "ISC"
+}
