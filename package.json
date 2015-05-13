@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Werner Vesteraas",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vesteraas/utmgeoconv"
+  },
   "keywords": [
     "UTM",
     "latitude",
